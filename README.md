@@ -43,8 +43,8 @@ To achieve reliable protection for kids without breaking the useful internet, I 
 | List Name / Source | Focus Area | Impact |
 | :--- | :--- | :--- |
 | **Default Pi-hole List** | General Ads & Malware | Blocks core tracking domains and known malicious sites. |
-| **[Insert List Name, e.g., StevenBlack FMS]** | Pornography & Social Media | Restricts access to adult sites and gambling. |
-| **[Insert List Name, e.g., Firebog Ticked Lists]** | Trackers & Telemetry | Enhances general smart-TV and app privacy. |
+| **StevenBlack FMS** | Pornography & Social Media | Restricts access to adult sites and gambling. |
+| **Firebog Ticked Lists]** | Trackers & Telemetry | Enhances general smart-TV and app privacy. |
 
 > 💡 **Tip for families:** I also enabled **RegEx blocking** for specific high-risk keywords and explicitly blocked major malicious domains via the native blocklist settings.
 
