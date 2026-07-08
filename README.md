@@ -69,4 +69,7 @@ The admin interface allows a user to audit pretty much anyhting related to DNS, 
 
 As you can see, the metrics, logging and auditing capabilties are far more advanced than merely selecting an usptream DNS server via an ISP router's admin console would allow. I'm all for more control and data as it empowers parents to make informed choice about their kids and their families. 
 
+## Acknowledgements
 
+* This project is configured to work alongside [Pi-hole®](https://pi-hole.net/), a network-wide ad blocker protected by Pi-hole, LLC.
+* Pi-hole is open-source software licensed under the European Union Public Licence (EUPL 1.2).
