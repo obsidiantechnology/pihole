@@ -53,5 +53,20 @@ To achieve reliable protection for kids without breaking the useful internet, I 
 
 ##  Dashboard & Metrics
 
-The interface allows me to audit what types of traffic are triggering blocks, ensuring the network stays clean without overly restricting normal web usage. 
+The admin interface allows a user to audit pretty much anyhting related to DNS, allowed requests, blocked requests, client making the requests, number of requests made, percentage of blocked requests and more. This is where Pi-hole truly shines compared to other solutions, it provides parents the ability to see what their children might be attempting to access, whether that be social media, violent content or anything else - it gives parents the opportunity to have a conversation with children and follow up with education and countermeasures as opposed to just blocks. 
+
+## Main Dashboard
+<img width="1248" height="723" alt="image" src="https://github.com/user-attachments/assets/19925acd-86d6-4e1e-8531-8a5c46e23206" />
+
+### Continued
+<img width="1021" height="533" alt="image" src="https://github.com/user-attachments/assets/c54bdc09-231e-43fe-b5a9-5f0b2f65ad4b" />
+
+### Continued
+<img width="1021" height="293" alt="image" src="https://github.com/user-attachments/assets/2b11186b-8ebc-48b3-bf5a-e3565db05d30" />
+
+## Query Log with advanced filters 
+<img width="1253" height="813" alt="image" src="https://github.com/user-attachments/assets/17bfc460-e70f-42f8-8912-d711fd3ff86b" />
+
+As you can see, the metrics, logging and auditing capabilties are far more advanced than merely selecting an usptream DNS server via an ISP router's admin console would allow. I'm all for more control and data as it empowers parents to make informed choice about their kids and their families. 
+
 
